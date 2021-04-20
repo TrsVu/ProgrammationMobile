@@ -1,7 +1,8 @@
 package com.appli.vu
 
 class Mangas (
-    val nom: String
+    val id: Int,
+    val nom: String,
+    val resume: String
+    )
 
-        ){
-}
